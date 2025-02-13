@@ -122,12 +122,18 @@ Can audio games enable creativity beyond traditional instruments?
 -   Creative Coding Library: p5.js
 -   Audio API: Web Audio API
 
-📂 Repository Structure
+---
 
+📂 Repository Structure  
+
+├── Commentary.docx          # Project commentary document  
+├── Project Journal.docx     # Development journal and notes  
 ├── README.md                # Project documentation  
 ├── index.html               # Main HTML file  
-├── style.css                # Styles  
-└── sketch.js                # Main game logic (p5.js)  
+├── p5.js                    # p5.js library for creative coding  
+├── p5.sound.min.js          # p5.js sound library for audio handling  
+├── sketch.js                # Main game logic (p5.js)  
+└── style.css                # Styles for the game interface  
 
 🔗 Useful Links
 
