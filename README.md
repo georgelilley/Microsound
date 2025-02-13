@@ -1,8 +1,11 @@
 🎛 Microsound – The Audio Game
 
+
+
 📌 Disclaimer
 
 This is a legacy project created during my university studies. The code may not fully align with best practices, but I believe sharing it highlights my progress. Since then, I’ve focused on cleaner, more maintainable coding approaches.
+
 
 
 🎮 Project Overview
@@ -15,12 +18,14 @@ This is a legacy project created during my university studies. The code may not 
 -  🪐 Apply gravity and forces, making particles orbit and collide.
 
 
+
 💡 Core Concepts
 
 -  Microsound: Inspired by Curtis Roads, exploring sound at the granular level (10–100ms).
 -  Non-linear Media: Interactive, every gameplay is unique.
 -  Generative Systems: Particles behave randomly within physical constraints.
 -  Audio Game Mechanics: Collisions trigger sound events, turning gameplay into a musical composition.
+
 
 
 🛠️ How It Works
