@@ -4,6 +4,7 @@
 
 This is a legacy project created during my university studies. The code may not fully align with best practices, but I believe sharing it highlights my progress. Since then, I’ve focused on cleaner, more maintainable coding approaches.
 
+
 🎮 Project Overview
 
 "Microsound – The Audio Game" is an interactive, web-based generative audio game built using JavaScript and p5.js. It explores concepts from Curtis Roads' Microsound (2004), turning sound particles (grains) into playable game objects. Users can:
@@ -13,12 +14,14 @@ This is a legacy project created during my university studies. The code may not 
 -  💥 Generate sound collisions as particles interact.
 -  🪐 Apply gravity and forces, making particles orbit and collide.
 
+
 💡 Core Concepts
 
 -  Microsound: Inspired by Curtis Roads, exploring sound at the granular level (10–100ms).
 -  Non-linear Media: Interactive, every gameplay is unique.
 -  Generative Systems: Particles behave randomly within physical constraints.
 -  Audio Game Mechanics: Collisions trigger sound events, turning gameplay into a musical composition.
+
 
 🛠️ How It Works
 
@@ -30,18 +33,21 @@ This is a legacy project created during my university studies. The code may not 
     * Position, Velocity, Acceleration (via p5.Vector)
     * Audio grain (10–100ms) from user-recorded input.
 
+
 🎮 Game Mechanics
 
-    Recording: Users record their voice or any sound, which is sliced into grains.
-    Spawning Particles: Clicking on the canvas creates particles containing these grains.
-    Gravity Simulation: Particles are drawn towards the center with a vector-based force.
-    Sound-on-Collision: When two particles collide, they play back their grains, forming unique generative soundscapes.
+-   Recording: Users record their voice or any sound, which is sliced into grains.
+-   Spawning Particles: Clicking on the canvas creates particles containing these grains.
+-   Gravity Simulation: Particles are drawn towards the center with a vector-based force.
+-   Sound-on-Collision: When two particles collide, they play back their grains, forming unique generative soundscapes.
+  
 
 🧩 Interactive Elements
 
-    Variable Grain Length: Users set the grain size (10–100ms).
-    Particle Projection: Users can launch particles in specific directions using their mouse.
-    Dynamic Sound Collisions: Each collision generates a sound event from the recorded grains.
+-   Variable Grain Length: Users set the grain size (10–100ms).
+-   Particle Projection: Users can launch particles in specific directions using their mouse.
+-   Dynamic Sound Collisions: Each collision generates a sound event from the recorded grains.
+  
 
 🎨 Creative Context & Inspiration
 🎶 Audio & Game Intersection
@@ -101,7 +107,7 @@ Can audio games enable creativity beyond traditional instruments?
 ├── README.md                # Project documentation  
 ├── index.html               # Main HTML file  
 ├── style.css                # Styles  
-└── script.js                # Main game logic (p5.js)  
+└── sketch.js                # Main game logic (p5.js)  
 
 🔗 Useful Links
 
