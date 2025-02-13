@@ -1,12 +1,12 @@
 🎛 Microsound – The Audio Game
 
-
+---
 
 📌 Disclaimer
 
 This is a legacy project created during my university studies. The code may not fully align with best practices, but I believe sharing it highlights my progress. Since then, I’ve focused on cleaner, more maintainable coding approaches.
 
-
+---
 
 🎮 Project Overview
 
@@ -17,7 +17,7 @@ This is a legacy project created during my university studies. The code may not 
 -  💥 Generate sound collisions as particles interact.
 -  🪐 Apply gravity and forces, making particles orbit and collide.
 
-
+---
 
 💡 Core Concepts
 
@@ -26,7 +26,7 @@ This is a legacy project created during my university studies. The code may not 
 -  Generative Systems: Particles behave randomly within physical constraints.
 -  Audio Game Mechanics: Collisions trigger sound events, turning gameplay into a musical composition.
 
-
+---
 
 🛠️ How It Works
 
