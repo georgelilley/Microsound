@@ -135,6 +135,8 @@ Can audio games enable creativity beyond traditional instruments?
 ├── sketch.js                # Main game logic (p5.js)  
 └── style.css                # Styles for the game interface  
 
+---
+
 🔗 Useful Links
 
  [🎮 Play the Game (p5.js Web Editor): Microsound – The Audio Game](https://users.sussex.ac.uk/~gsl23/Microsound_-_The_Audio_Game_Final/)
