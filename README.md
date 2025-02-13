@@ -1,4 +1,4 @@
-### 🎛 Microsound – The Audio Game
+# 🎛 Microsound – The Audio Game
 
 ## 🎥 Video Demo  
 👉 [Watch the Demo on YouTube](https://youtu.be/FxQiP6Kh7Rc)  
