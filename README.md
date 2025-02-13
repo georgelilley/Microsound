@@ -92,8 +92,11 @@ Can audio games enable creativity beyond traditional instruments?
 🚀 Future Development Plans
 
 🔧 Multiplayer Mode: Allowing players to create collaborative generative compositions.
+
 🎛 More Particle Behaviors: Adding repulsion, magnetism, or environmental effects.
+
 🎨 Visual Upgrades: Enhanced particle trails and interactive graphics.
+
 🎚 Improved Audio Engine: Reducing clicks/buzzes on collisions with advanced smoothing.
 
 ---
