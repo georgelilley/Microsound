@@ -1,5 +1,8 @@
 🎛 Microsound – The Audio Game
 
+## 🎥 Video Demo  
+👉 [Watch the Demo on YouTube](https://youtu.be/FxQiP6Kh7Rc)  
+
 ---
 
 📌 Disclaimer
@@ -140,5 +143,5 @@ Can audio games enable creativity beyond traditional instruments?
 🔗 Useful Links
 
 [🎮 Play the Game (p5.js Web Editor): Microsound – The Audio Game](https://users.sussex.ac.uk/~gsl23/Microsound_-_The_Audio_Game_Final/)
-[Watch a Demo](https://youtu.be/FxQiP6Kh7Rc)
+
 📚 p5.js Library: p5js.org
