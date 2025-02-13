@@ -53,6 +53,7 @@ This is a legacy project created during my university studies. The code may not 
 -   Particle Projection: Users can launch particles in specific directions using their mouse.
 -   Dynamic Sound Collisions: Each collision generates a sound event from the recorded grains.
   
+---
 
 🎨 Creative Context & Inspiration
 🎶 Audio & Game Intersection
