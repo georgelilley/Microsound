@@ -56,32 +56,37 @@ This is a legacy project created during my university studies. The code may not 
 ---
 
 🎨 Creative Context & Inspiration
+
 🎶 Audio & Game Intersection
 
-    Inspired by Curtis Roads’ Microsound (2004): The concept that all sound is made of tiny particles.
-    Influenced by Audio Games like "Blob Opera" (Google Arts) and "Plink" (Dinahmoe): Exploring non-linear, playful audio composition.
-    Related to Generative Simulations: Echoing the physics-driven generative music from projects like “Caasi” by Filipczak.
+-   Inspired by Curtis Roads’ Microsound (2004): The concept that all sound is made of tiny particles.
+-   Influenced by Audio Games like "Blob Opera" (Google Arts) and "Plink" (Dinahmoe): Exploring non-linear, playful audio composition.
+-   Related to Generative Simulations: Echoing the physics-driven generative music from projects like “Caasi” by Filipczak.
 
 🧠 Generativity & Creativity
 
-    Generativity in Games: Inspired by theories of player engagement through randomness (Lee & Jeon, 2017).
-    Non-linear Interactivity: Builds on ideas from Smuts (2009) about interactive feedback loops between player and system.
-    Materialist Composition: Following Filipczak (2017), using physics simulations to inspire new forms of generative music.
+-   Generativity in Games: Inspired by theories of player engagement through randomness (Lee & Jeon, 2017).
+-   Non-linear Interactivity: Builds on ideas from Smuts (2009) about interactive feedback loops between player and system.
+-   Materialist Composition: Following Filipczak (2017), using physics simulations to inspire new forms of generative music.
+
+---
 
 🎯 Research Questions Explored
 📌 1. Educational Value of Web-Based Audio Games
 
 Can interactive media help users engage with complex musical concepts?
 
-    Microsound – The Audio Game demonstrates granular synthesis concepts through playful interaction.
-    It aligns with Cairncross and Mannion (2010), who argue interactive simulations promote deeper learning.
+-   Microsound – The Audio Game demonstrates granular synthesis concepts through playful interaction.
+-   It aligns with Cairncross and Mannion (2010), who argue interactive simulations promote deeper learning.
 
 📌 2. Exploring New Modes of Musical Expression
 
 Can audio games enable creativity beyond traditional instruments?
 
-    The project embraces bottom-up composition: Simple rules lead to complex, emergent soundscapes.
-    Supports inclusivity by enabling users to create music without technical skills, echoing Mishra (2015) on accessible music interfaces.
+-   The project embraces bottom-up composition: Simple rules lead to complex, emergent soundscapes.
+-   Supports inclusivity by enabling users to create music without technical skills, echoing Mishra (2015) on accessible music interfaces.
+
+---
 
 🚀 Future Development Plans
 
@@ -89,24 +94,29 @@ Can audio games enable creativity beyond traditional instruments?
 🎛 More Particle Behaviors: Adding repulsion, magnetism, or environmental effects.
 🎨 Visual Upgrades: Enhanced particle trails and interactive graphics.
 🎚 Improved Audio Engine: Reducing clicks/buzzes on collisions with advanced smoothing.
+
+---
+
 📝 Evaluation & Reflection
 ✅ Project Strengths:
 
-    Highly Interactive & Generative: Every session produces a unique soundscape.
-    Educational Potential: Effective in teaching granular synthesis through play.
-    Creative Exploration: Empowers users to compose music without formal training.
+-   Highly Interactive & Generative: Every session produces a unique soundscape.
+-   Educational Potential: Effective in teaching granular synthesis through play.
+-   Creative Exploration: Empowers users to compose music without formal training.
 
 🛑 Areas for Improvement:
 
-    Audio Quality: Occasional clicks on particle collisions.
-    Optimization: Performance issues with many particles on screen.
-    UI Enhancements: Clearer controls and in-game feedback.
+-   Audio Quality: Occasional clicks on particle collisions.
+-   Optimization: Performance issues with many particles on screen.
+-   UI Enhancements: Clearer controls and in-game feedback.
+
+---
 
 🛠️ Built With
 
-    Language: JavaScript
-    Creative Coding Library: p5.js
-    Audio API: Web Audio API
+-   Language: JavaScript
+-   Creative Coding Library: p5.js
+-   Audio API: Web Audio API
 
 📂 Repository Structure
 
@@ -117,6 +127,5 @@ Can audio games enable creativity beyond traditional instruments?
 
 🔗 Useful Links
 
-🎮 Play the Game (p5.js Web Editor): Microsound – The Audio Game (Add your hosted link)
-📜 Full Project Commentary: Project Commentary PDF (If hosted online)
+ [🎮 Play the Game (p5.js Web Editor): Microsound – The Audio Game](https://users.sussex.ac.uk/~gsl23/Microsound_-_The_Audio_Game_Final/)
 📚 p5.js Library: p5js.org
